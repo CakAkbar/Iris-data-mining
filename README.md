@@ -2,13 +2,12 @@
 
 ## Daftar Isi
 
-1. [Sekilas Tentang Penambangan Data](#sekilas-tentang-penambangan-data)
-2. [Memahami Data](#memahami-data)
+1. [Memahami Data](#memahami-data)
    - [Pengertian Bunga Iris](#pengertian-bunga-iris)
-3. [Pembersihan Data dan Pra-pemrosesan](#pembersihan-data-dan-pra-pemrosesan)
+2. [Pembersihan Data dan Pra-pemrosesan](#pembersihan-data-dan-pra-pemrosesan)
    - [Penanganan Missing Value](#penanganan-missing-value)
    - [Deteksi Outlier](#deteksi-outlier)
-4. [Implementasi Naive Bayes](#implementasi-naive-bayes)
+3. [Implementasi Naive Bayes](#implementasi-naive-bayes)
 
 
 ### Pengertian Bunga Iris
